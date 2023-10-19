@@ -57,13 +57,17 @@ Tailwind CSS Framework: https://tailwindcss.com/
 
 ## Made By:
 
-*Krystian Kowalak
+Krystian Kowalak
 
 https://krystiankowalak.github.io/portfolio/
 
-*Daniel Halsim
+Daniel Simanjuntak
 
 https://danhalsim.github.io/portfolio/
+
+Brian Tae Lee
+
+https://github.com/briantaelee
 
 Michael Joseph V. Ibarra
 
