@@ -1,0 +1,44 @@
+[
+    {
+        "email": "kkowalak9@gmail.com",
+        "password": "password1997",
+        "firstName": "Krystian",
+        "lastName": "Kowalak",
+        "role": "tech"
+    },
+    {
+        "email": "test@gmail.com",
+        "password": "passwordtest",
+        "firstName": "Test",
+        "lastName": "Client",
+        "role": "client"
+    },
+    {
+        "email": "dansim6935@gmail.com",
+        "password": "opencircuit",
+        "firstName": "Daniel",
+        "lastName": "Simanjuntak",
+        "role": "client"
+    },
+    {
+        "email": "briantae@email.com",
+        "password": "briantae",
+        "firstName": "Brian",
+        "lastName": "Lee",
+        "role": "client"
+    },
+    {
+        "email": "theawkwardasian02@gmail.com",
+        "password": "PMIY02",
+        "firstName": "Michael Joseph",
+        "lastName": "Ibarra",
+        "role": "tech"
+    },
+    {
+        "email": "wangfmarcos@gmail.com",
+        "password": "gaminggamers7",
+        "firstName": "Marcos",
+        "lastName": "Wang",
+        "role": "tech"
+    }
+]

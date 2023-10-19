@@ -1,0 +1,10 @@
+[
+    {
+        "clientId": 2,
+        "techId": 1,
+        "subject": "Help",
+        "description": "Having issues",
+        "status": "Open",
+        "isArchived": false
+    }
+]

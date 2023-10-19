@@ -1,0 +1,54 @@
+<header>
+  <div>
+    <h1 class="text_box"> {{subject}} </h1>
+    <br>
+    <h3> Description: {{description}} </h3>
+  </div>
+  <div>
+    <h4> {{urgency}} </h4>
+  </div>
+  <div>
+    <h5> Opened by {{user.firstName}} on {{date}} </h5>
+  </div>
+</header>
+
+<body>
+
+  <div class="update_ticket_box">
+    <form class="ticketForm" method="post">
+      <div class="text_box">
+        <input id="subject" type="subject" required>
+        <span></span>
+        <label>Subject</label>
+      </div>
+      <div class="text_box">
+        <input id="descritpion" type="description" required>
+        <span></span>
+        <label>Description</label>
+      </div>
+      <label for="urgency">Urgency:</label>
+      <select name="urgency" id="urgency">
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+      </select>
+      <input type="submit" value="Save Changes">
+    </form>
+  </div>
+
+</body>
+
+<div>
+
+<h2> Ticket Log </h2>
+<div> {{timeline}} </div>
+
+</div>
+
+<footer>
+  <center>
+    <div class="text_box">
+      <button type="button" onlick="window.history.back()"> Back </button>
+    </div>
+  </center>
+</footer>
